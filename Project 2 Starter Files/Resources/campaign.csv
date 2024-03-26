@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 subcategory_id,category_id,cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launch_date,end_date
-=======
-subcategory_ids,category_ids,cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launched_date,end_date
->>>>>>> 968e7f0eddc2c23b943e70bf60d77159449526b8
 subcat1,cat1,147,4661,"Baldwin, Riley and Jackson",Pre-emptive tertiary standardization,100.0,0.0,failed,0,CA,CAD,2020-02-13,2021-03-01
 subcat1,cat1,1175,2288,Werner-Bryant,Virtual uniform frame,1800.0,7991.0,successful,222,US,USD,2020-06-20,2021-01-30
 subcat1,cat1,873,2067,Stewart LLC,Cloned bi-directional architecture,1300.0,12047.0,successful,113,US,USD,2020-11-29,2021-06-11
