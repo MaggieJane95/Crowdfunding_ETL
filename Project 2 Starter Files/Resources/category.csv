@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 category_id,category
+=======
+category_ids,category
+>>>>>>> 968e7f0eddc2c23b943e70bf60d77159449526b8
 cat1,food
 cat2,music
 cat3,technology
