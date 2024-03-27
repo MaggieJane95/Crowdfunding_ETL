@@ -30,11 +30,9 @@ Execute SQL commands to create tables and import data into the PostgreSQL databa
 Verify data integrity by querying the tables.
 
 ## Files
-ETL_Mini_Project_<Initials>.ipynb: Jupyter notebook containing Python code for data extraction, transformation, and loading.
-crowdfunding.xlsx: Excel file containing crowdfunding data.
-contacts.xlsx: Excel file containing contact information.
-Resources/: Folder containing data files.
-crowdfunding_db_schema.sql: PostgreSQL schema file.
+CSV File Creation: Processed data was saved into four CSV files, which were used to create an Entity-Relationship Diagram (ERD) and define a table schema.
+ERD and Schema Design: We created an ERD to visualize the relationships between different entities in the dataset and defined a table schema based on the ERD.
+Database Upload: Finally, we uploaded the CSV file data into a Postgres database, ensuring that tables were created as per the defined schema and data was successfully loaded.
 
 ## Instructions
 Clone the repository and set up a PostgreSQL database.
@@ -44,8 +42,11 @@ Verify data integrity and perform further analysis as needed.
 
 ## Dependencies
 Python 3.x
+
 Pandas
+
 SQLAlchemy
+
 PostgreSQL
 
 ## Contributors
