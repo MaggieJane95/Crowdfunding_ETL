@@ -52,5 +52,5 @@ PostgreSQL
 Tyli Onel
 Maggie Boone
 
-## Resources
-https://github.com/MaggieJane95/Crowdfunding_ETL
+## Conclusion
+Our ETL mini project provided us with a practical opportunity to apply our knowledge of data processing techniques, collaborate effectively with a partner, and enhance our project management skills. We hope you find our work insightful and informative, and we're excited to share our journey with you!
