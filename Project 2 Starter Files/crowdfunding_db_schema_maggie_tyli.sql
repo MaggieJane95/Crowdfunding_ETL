@@ -45,6 +45,7 @@ CREATE TABLE subcategory (
     CONSTRAINT pk_subcategory PRIMARY KEY (subcategory_id)
 );
 
+-- After importing data into the tables, run each of the following to check the table data was imported correctly
 SELECT * FROM campaign;
 SELECT * FROM category;
 SELECT * FROM contacts;
