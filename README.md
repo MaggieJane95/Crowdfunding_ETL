@@ -18,13 +18,13 @@ Create a PostgreSQL database named crowdfunding_db.
 Create tables for Category, Subcategory, Contacts, and Campaign using the defined schema.
 Import data from CSV files into the respective tables.
 
-## ERD and Database Schema:
+### ERD and Database Schema:
 
 Sketch an ERD to visualize the relationships between tables.
 Define the database schema with data types, primary keys, foreign keys, and constraints.
 Save the schema as crowdfunding_db_schema.sql.
 
-## Execution:
+### Execution:
 
 Execute SQL commands to create tables and import data into the PostgreSQL database.
 Verify data integrity by querying the tables.
