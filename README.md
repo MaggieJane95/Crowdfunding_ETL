@@ -5,7 +5,7 @@
 ### Overview
 This project aims to build an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions. The pipeline extracts data from Excel files containing information about categories, subcategories, contacts, and campaign details from a crowdfunding platform. It then transforms the data and loads it into a PostgreSQL database for further analysis.
 
-### Project Structure
+## Project Structure
 The project is divided into several steps:
 
 ### Data Extraction and Transformation:
