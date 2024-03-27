@@ -53,6 +53,7 @@ PostgreSQL
 
 ## Contributors
 Tyli Onel
+
 Maggie Boone
 
 ## Conclusion
